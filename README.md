@@ -1,2 +1,10 @@
 # mini-games
+![gamehome](https://user-images.githubusercontent.com/43930170/80912416-69cf7c80-8d5a-11ea-8898-b81ed562598a.png)
+![hangman](https://user-images.githubusercontent.com/43930170/80912418-6c31d680-8d5a-11ea-96bb-aca293fb8b14.png)
+![hangman1](https://user-images.githubusercontent.com/43930170/80912422-6dfb9a00-8d5a-11ea-9d02-869facd91b13.png)
 ![anim](https://user-images.githubusercontent.com/43930170/80912412-676d2280-8d5a-11ea-9267-202ffee93851.png)
+![player](https://user-images.githubusercontent.com/43930170/80912425-705df400-8d5a-11ea-850c-a7d0287332b3.png)
+![player2](https://user-images.githubusercontent.com/43930170/80912427-7227b780-8d5a-11ea-970b-1c25d8c006d6.png)
+![playing](https://user-images.githubusercontent.com/43930170/80912428-7358e480-8d5a-11ea-9d31-8349230218a1.png)
+![rules](https://user-images.githubusercontent.com/43930170/80912432-79e75c00-8d5a-11ea-879c-09f628ae2d0f.png)
+![tictactoe](https://user-images.githubusercontent.com/43930170/80912437-7c49b600-8d5a-11ea-9782-6f9be7a52718.png)
